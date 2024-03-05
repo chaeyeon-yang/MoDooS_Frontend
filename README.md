@@ -42,7 +42,8 @@ Next.js 13.4.7 Typescript 5.1.6 tailwindcss 3.3.2 react-query 3.39.3 axios 1.4.0
 
 ### 아키텍쳐
 
-<img width="670" alt="프론트 엔드 아키텍쳐" src="https://github.com/MoDooS/MoDooS_Frontend/assets/69382168/79b4014e-0e78-4b2a-b91f-2df29db8dd5b">
+<img width="545" alt="프론트엔드 아키텍쳐" src="https://github.com/chaeyeon-yang/MoDooS_Frontend/assets/69382168/7e951587-48b8-4d3f-8c98-7de650aca06b">
+
 
 ### 배포
 
